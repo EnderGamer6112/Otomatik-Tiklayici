@@ -18,7 +18,7 @@
 
 ---
 
-## Not: [Discord sunucumuz](https://discord.gg/qA7trgxdVD) dan destek alabilirsiniz
+## Not: [Discord sunucumuz](https://discord.gg/qA7trgxdVD) dan destek alabilirsiniz. Eğer ki exe olarak indirecekseniz gereksinimler kısmı önemli değildir.
 
 ## 🛠️Gereksinimler
 
