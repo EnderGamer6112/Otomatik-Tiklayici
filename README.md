@@ -1,6 +1,6 @@
 # YiğitDev Otomatik Tıklayıcı 🖱️
 
-> 🧒 Geliştirici: **Yiğit (13 yaşında)**
+> 🧒 Geliştirici: **Yiğit**
 
 ---
 🖱️ Otomatik tıklama işini ciddi yapan, ayarlanabilir aralık ve konum destekli, Python Tkinter tabanlı basit ama güçlü bir auto clicker.
